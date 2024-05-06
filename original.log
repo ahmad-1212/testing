@@ -1,0 +1,144 @@
+commit 7cd724144f74feeb625cbe25467f99a0bdc7ff2f
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 15:41:33 2024 +0500
+
+    add develop.txt
+
+commit a61ba94bd35385955f57af1bb9392be10baca119
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 15:35:24 2024 +0500
+
+    delete develop1 develop2 new-branch1 newfile files
+
+commit ecf1e6d975db8972d22d638e44ed67aa8e26c868
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 15:31:42 2024 +0500
+
+    add filed in develop branch
+
+commit a888696fa20ea9e9bc815b0818026706156b2319
+Merge: 015c39a a1e736c
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:56:53 2024 +0500
+
+    merge local with server
+
+commit 015c39adbbef6a7c8df7718c4a26a8fcde08602b
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:54:05 2024 +0500
+
+    update readme from local machine
+
+commit a1e736c118adf5d562644f60ff9a437c3d633a92
+Author: Ahmad Ali <104498375+ahmad-1212@users.noreply.github.com>
+Date:   Wed Apr 24 14:52:02 2024 +0500
+
+    Update 2 README.md
+
+commit 44be429bc029f1afe0eb156840589bf39d8e8c38
+Merge: b214f27 6a0cd10
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:51:03 2024 +0500
+
+    Merge branch 'main' of github.com:ahmad-1212/testing
+
+commit 6a0cd10ff97b1cf104015c3a9f458490b7365d49
+Author: Ahmad Ali <104498375+ahmad-1212@users.noreply.github.com>
+Date:   Wed Apr 24 14:49:47 2024 +0500
+
+    Update README.md
+    
+    updated the readme file
+
+commit b214f272235a32a8f78e7b32bf2e70edbe1994da
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:41:56 2024 +0500
+
+    delete test1.txt
+
+commit 3777e72b231e1c5064f93c52f2a53f789b1dc722
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:41:26 2024 +0500
+
+    delete sometest.txt
+
+commit 8b8d3a6a92d419b84d6ddf1f00aab65cb6428ec2
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:35:39 2024 +0500
+
+    added test1 file modified sometest.txt
+
+commit 2b0085d21f1dadd6f733dc4fcdcdd2a84aa11a31
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:33:32 2024 +0500
+
+    modified sometest.txt
+
+commit 77c4384363af3f61a9494ab8611662c191f33449
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Wed Apr 24 14:12:44 2024 +0500
+
+    add sometest.txt
+
+commit 1eddeb68dc8f7cc16c2a68ac4a12fddbb18f0579
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 23:24:57 2024 +0500
+
+    modified again
+
+commit 2cae786fc909cd11345a331d8a3daa80614d1230
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 23:24:36 2024 +0500
+
+    modified txt.txt
+
+commit 5f2c716074f79966ae328d174e85c12001ae6900
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 23:22:52 2024 +0500
+
+    remove from staged
+
+commit 1518ebecd072638bd4e0c150afc43c604ce538ba
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 23:12:12 2024 +0500
+
+    modify training.txt
+
+commit 379fa7e1c2e9b669dc92ef7632274974d5e34f08
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 23:08:43 2024 +0500
+
+    added training.txt
+
+commit 627bf8e6db5f9fe0fd63818259d72666647e42ab
+Merge: 095cc1a 493a0d5
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 22:33:29 2024 +0500
+
+    Merge branch 'main' of github.com:ahmad-1212/testing
+
+commit 493a0d5492f42dba5fb68a0acba9566b29fe5fd3
+Author: Ahmad Ali <104498375+ahmad-1212@users.noreply.github.com>
+Date:   Tue Apr 23 22:32:34 2024 +0500
+
+    Create README.md
+    
+    added Readme file
+
+commit 095cc1afe6b338c746fe48a2e555b04be796a8fc
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Tue Apr 23 22:32:00 2024 +0500
+
+    added addedlocaly.txt
+
+commit 811c60a9f4173ce4ab152c50f480bd2555bc5007
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Sat Apr 20 23:44:44 2024 +0500
+
+    add hello.txt
+
+commit 4f98ee9fa15a99b70066f5a4e18ad91f9b0428bf
+Author: ahmad1212 <ahmadali.swat333@gmail.com>
+Date:   Sat Apr 20 23:22:25 2024 +0500
+
+    initial commit
